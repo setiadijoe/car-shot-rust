@@ -1,0 +1,1 @@
+pub const ID_PLAYER: &str = "player";
